@@ -3383,3 +3383,1008 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.04.07-05.34.30:818][670]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.07-05.34.30:818][670]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.07-05.34.30:818][670]AssetCheck: /Game/LEC08/Granny Validating asset
+[2025.04.07-05.39.04:412][664]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'AActor::GetActorForwardVector' [요소가 없습니다.]
+[2025.04.07-05.39.11:247][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2025.04.07-05.39.12:824][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2025.04.07-05.39.12:830][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-05.39.12:982][379]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC08/Granny] ([2] browsable assets)...
+[2025.04.07-05.39.12:996][379]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LEC08/Granny.Granny]
+[2025.04.07-05.39.12:996][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC08/Granny]
+[2025.04.07-05.39.12:996][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC08/Granny" FILE="../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset" SILENT=true
+[2025.04.07-05.39.13:009][379]LogSavePackage: Moving output files for package: /Game/LEC08/Granny
+[2025.04.07-05.39.13:014][379]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/Granny0F88D73642586FFCDD7F96988E5FA0DC.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset'
+[2025.04.07-05.39.13:039][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.603 ms (total: 4.71 sec)
+[2025.04.07-05.39.13:208][379]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.07-05.39.13:208][379]LogContentValidation: Enabled validators:
+[2025.04.07-05.39.13:208][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-05.39.13:208][379]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-05.39.13:208][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-05.39.13:208][379]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-05.39.13:208][379]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-05.39.13:208][379]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-05.39.13:208][379]AssetCheck: /Game/LEC08/Granny Validating asset
+[2025.04.07-05.39.14:980][531]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-05.39.15:007][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-05.39.15:007][531]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2025.04.07-05.39.15:009][531]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.04.07-05.39.15:022][532]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.39.15:025][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002326s)
+[2025.04.07-05.39.15:025][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.002375s)
+[2025.04.07-05.39.15:061][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.04.07-05.39.15:064][532]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-05.39.15:067][532]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-05.39.15:068][532]LogPlayLevel: PIE: World Init took: (0.003612s)
+[2025.04.07-05.39.15:069][532]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.04.07-05.39.15:069][532]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-05.39.15:069][532]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-05.39.15:069][532]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-05.39.15:069][532]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-05.39.15:069][532]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-05.39.15:069][532]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-05.39.15:069][532]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-05.39.15:069][532]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-05.39.15:069][532]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-05.39.15:069][532]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-05.39.15:069][532]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-05.39.15:073][532]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-05.39.15:118][532]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-05.39.15:119][532]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-05.39.15:119][532]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-05.39.15:119][532]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-05.39.15:120][532]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.04.07-05.39.15:120][532]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.04.07-05.39.15:123][532]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.04.07-05.39.15:123][532]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.04.07-05.39.15:123][532]LogInit: FAudioDevice initialized with ID 16.
+[2025.04.07-05.39.15:123][532]LogAudio: Display: Audio Device (ID: 16) registered with world 'CharacterMap'.
+[2025.04.07-05.39.15:123][532]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.04.07-05.39.15:214][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.39.15:215][532]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-05.39.15:219][532]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-14.39.15
+[2025.04.07-05.39.15:219][532]LogWorld: Bringing up level for play took: 0.002549
+[2025.04.07-05.39.15:227][532]PIE: Server logged in
+[2025.04.07-05.39.15:230][532]PIE: Play in editor total start time 0.224 seconds.
+[2025.04.07-05.39.15:537][534]LogPSOHitching: Encountered 100 PSO creation hitches so far (78 graphics, 22 compute). 0 of them were precached.
+[2025.04.07-05.39.52:971][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.39.52:971][814]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.39.52:972][814]LogSlate: Window '여덟부터 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2025.04.07-05.39.52:988][814]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.39.52:988][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.39.53:001][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-05.39.53:021][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.39.53:066][814]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.04.07-05.39.53:066][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.04.07-05.39.53:069][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.04.07-05.39.53:084][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2025.04.07-05.39.53:119][815]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.04.07-05.40.07:457][178]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-05.40.07:484][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-05.40.07:485][178]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2025.04.07-05.40.07:488][178]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.04.07-05.40.07:505][179]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.40.07:507][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001925s)
+[2025.04.07-05.40.07:507][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.001970s)
+[2025.04.07-05.40.07:539][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.04.07-05.40.07:540][179]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-05.40.07:542][179]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-05.40.07:543][179]LogPlayLevel: PIE: World Init took: (0.002963s)
+[2025.04.07-05.40.07:544][179]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.04.07-05.40.07:544][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-05.40.07:544][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-05.40.07:544][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-05.40.07:544][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-05.40.07:544][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-05.40.07:544][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-05.40.07:544][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-05.40.07:544][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-05.40.07:544][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-05.40.07:544][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-05.40.07:544][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-05.40.07:547][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-05.40.07:590][179]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-05.40.07:590][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-05.40.07:590][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-05.40.07:590][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-05.40.07:591][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.04.07-05.40.07:591][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.04.07-05.40.07:595][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.04.07-05.40.07:595][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.04.07-05.40.07:595][179]LogInit: FAudioDevice initialized with ID 17.
+[2025.04.07-05.40.07:595][179]LogAudio: Display: Audio Device (ID: 17) registered with world 'CharacterMap'.
+[2025.04.07-05.40.07:595][179]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.04.07-05.40.07:601][179]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-05.40.07:602][179]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-14.40.07
+[2025.04.07-05.40.07:603][179]LogWorld: Bringing up level for play took: 0.001597
+[2025.04.07-05.40.07:606][179]PIE: Server logged in
+[2025.04.07-05.40.07:607][179]PIE: Play in editor total start time 0.123 seconds.
+[2025.04.07-05.40.34:392][916]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.04.07-05.41.42:417][315]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.301 and deleted 0 files with total size 0 MiB and 206 empty folders. Scanned 176 files in 565 folders with total size 2 MiB.
+[2025.04.07-05.42.05:455][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.42.05:455][417]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.42.05:455][417]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.42.05:456][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.42.05:469][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-05.42.05:477][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.42.05:506][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.42.05:506][417]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.04.07-05.42.05:507][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.04.07-05.42.05:510][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.04.07-05.42.05:521][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2025.04.07-05.42.05:603][418]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.04.07-05.44.07:419][527]LogEditorTransaction: Undo Create Reroute Node
+[2025.04.07-05.44.07:545][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.07-05.44.40:369][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.04.07-05.44.43:049][448]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-05.44.43:073][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-05.44.43:094][448]LogPlayLevel: Display: Creating online subsystem for client :Context_31
+[2025.04.07-05.44.43:098][448]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.04.07-05.44.43:114][449]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.44.43:116][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001752s)
+[2025.04.07-05.44.43:116][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.001793s)
+[2025.04.07-05.44.43:135][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.04.07-05.44.43:137][449]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-05.44.43:138][449]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-05.44.43:139][449]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2025.04.07-05.44.43:139][449]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.04.07-05.44.43:139][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-05.44.43:139][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-05.44.43:139][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-05.44.43:139][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-05.44.43:139][449]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-05.44.43:139][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-05.44.43:139][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-05.44.43:139][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-05.44.43:139][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-05.44.43:139][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-05.44.43:139][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-05.44.43:141][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-05.44.43:171][449]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-05.44.43:172][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-05.44.43:172][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-05.44.43:172][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-05.44.43:173][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.04.07-05.44.43:173][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.04.07-05.44.43:175][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.04.07-05.44.43:175][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.04.07-05.44.43:175][449]LogInit: FAudioDevice initialized with ID 18.
+[2025.04.07-05.44.43:175][449]LogAudio: Display: Audio Device (ID: 18) registered with world 'CharacterMap'.
+[2025.04.07-05.44.43:175][449]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.04.07-05.44.43:178][449]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-05.44.43:178][449]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-14.44.43
+[2025.04.07-05.44.43:178][449]LogWorld: Bringing up level for play took: 0.000672
+[2025.04.07-05.44.43:181][449]PIE: Server logged in
+[2025.04.07-05.44.43:182][449]PIE: Play in editor total start time 0.109 seconds.
+[2025.04.07-05.44.49:044][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.44.49:044][981]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.44.49:046][981]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.44.49:046][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.44.49:058][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-05.44.49:061][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.44.49:079][981]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.07-05.44.49:079][981]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.04.07-05.44.49:079][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.04.07-05.44.49:080][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.04.07-05.44.49:084][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.44.49:085][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.07-05.44.49:140][982]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.04.07-05.44.57:606][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.04.07-05.44.58:468][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.07-05.44.58:472][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-05.44.58:578][830]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC08/Granny] ([2] browsable assets)...
+[2025.04.07-05.44.58:581][830]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LEC08/Granny.Granny]
+[2025.04.07-05.44.58:581][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC08/Granny]
+[2025.04.07-05.44.58:581][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC08/Granny" FILE="../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset" SILENT=true
+[2025.04.07-05.44.58:588][830]LogSavePackage: Moving output files for package: /Game/LEC08/Granny
+[2025.04.07-05.44.58:604][830]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/Granny27149BF74D3E1016A90193AED923E961.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset'
+[2025.04.07-05.44.58:614][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.746 ms (total: 4.85 sec)
+[2025.04.07-05.44.58:706][830]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.07-05.44.58:706][830]LogContentValidation: Enabled validators:
+[2025.04.07-05.44.58:706][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-05.44.58:706][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-05.44.58:706][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-05.44.58:706][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-05.44.58:706][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-05.44.58:706][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-05.44.58:706][830]AssetCheck: /Game/LEC08/Granny Validating asset
+[2025.04.07-05.44.59:847][932]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-05.44.59:854][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-05.44.59:854][932]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2025.04.07-05.44.59:856][932]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.04.07-05.44.59:870][933]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.44.59:871][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001492s)
+[2025.04.07-05.44.59:871][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.001531s)
+[2025.04.07-05.44.59:891][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.04.07-05.44.59:892][933]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-05.44.59:893][933]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-05.44.59:893][933]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2025.04.07-05.44.59:893][933]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.04.07-05.44.59:893][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-05.44.59:893][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-05.44.59:893][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-05.44.59:893][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-05.44.59:893][933]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-05.44.59:893][933]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-05.44.59:893][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-05.44.59:893][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-05.44.59:893][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-05.44.59:893][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-05.44.59:893][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-05.44.59:895][933]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-05.44.59:925][933]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-05.44.59:925][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-05.44.59:925][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-05.44.59:925][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-05.44.59:926][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.04.07-05.44.59:926][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.04.07-05.44.59:928][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.04.07-05.44.59:928][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.04.07-05.44.59:928][933]LogInit: FAudioDevice initialized with ID 19.
+[2025.04.07-05.44.59:928][933]LogAudio: Display: Audio Device (ID: 19) registered with world 'CharacterMap'.
+[2025.04.07-05.44.59:928][933]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.04.07-05.44.59:930][933]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-05.44.59:931][933]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-14.44.59
+[2025.04.07-05.44.59:931][933]LogWorld: Bringing up level for play took: 0.000682
+[2025.04.07-05.44.59:934][933]PIE: Server logged in
+[2025.04.07-05.44.59:935][933]PIE: Play in editor total start time 0.081 seconds.
+[2025.04.07-05.45.11:213][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.45.11:213][960]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.45.11:213][960]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.45.11:214][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.45.11:223][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-05.45.11:229][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.45.11:244][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.45.11:244][960]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.04.07-05.45.11:244][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.04.07-05.45.11:246][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.04.07-05.45.11:253][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.07-05.45.11:306][961]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.04.07-05.45.15:375][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.04.07-05.45.16:383][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.04.07-05.45.16:387][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-05.45.16:449][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC08/Granny] ([2] browsable assets)...
+[2025.04.07-05.45.16:455][409]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LEC08/Granny.Granny]
+[2025.04.07-05.45.16:455][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC08/Granny]
+[2025.04.07-05.45.16:455][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC08/Granny" FILE="../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset" SILENT=true
+[2025.04.07-05.45.16:461][409]LogSavePackage: Moving output files for package: /Game/LEC08/Granny
+[2025.04.07-05.45.16:463][409]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/Granny6603D3EA45AD8A5D592DDA80C75E09B0.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset'
+[2025.04.07-05.45.16:474][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.044 ms (total: 4.94 sec)
+[2025.04.07-05.45.16:547][409]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.07-05.45.16:548][409]LogContentValidation: Enabled validators:
+[2025.04.07-05.45.16:548][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-05.45.16:548][409]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-05.45.16:548][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-05.45.16:548][409]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-05.45.16:548][409]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-05.45.16:548][409]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-05.45.16:548][409]AssetCheck: /Game/LEC08/Granny Validating asset
+[2025.04.07-05.45.18:098][564]LogSlate: Window 'Granny' being destroyed
+[2025.04.07-05.45.52:918][586]LogSlate: Window '여덟부터 - Unreal Editor' being destroyed
+[2025.04.07-05.45.52:921][586]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2025.04.07-05.45.53:124][586]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.45.53:124][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.45.53:150][586]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.45.53:150][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.45.53:206][586]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.07-05.45.53:206][586]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.45.53:206][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.45.53:233][586]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.07-05.45.53:233][586]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.45.53:233][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.45.53:310][586]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2025.04.07-05.45.53:355][586]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.04.07-05.45.53:408][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.45.53:459][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.45.53:508][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.45.53:557][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.45.53:781][586]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LEC08/Granny.Granny
+[2025.04.07-05.45.53:782][586]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.04.07-05.45.53:782][586]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.04.07-05.45.53:946][586]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/LEC08/character/granny/mesh/Sporty_Granny.Sporty_Granny
+[2025.04.07-05.45.53:947][586]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.04.07-05.45.53:947][586]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2025.04.07-05.45.53:954][586]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.07-05.45.54:179][586]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LEC08/GrannyGameMode.GrannyGameMode
+[2025.04.07-05.45.54:179][586]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.04.07-05.45.54:179][586]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2025.04.07-05.45.54:254][586]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2025.04.07-05.45.54:291][586]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LEC08/GrannyPlayerController.GrannyPlayerController
+[2025.04.07-05.45.54:291][586]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.04.07-05.45.54:293][586]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2025.04.07-05.45.54:664][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.07-05.46.08:794][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.04.07-05.46.13:663][988]LogSlate: Window 'Sporty_Granny' being destroyed
+[2025.04.07-05.46.20:196][588]LogSlate: Window 'GrannyPlayerController' being destroyed
+[2025.04.07-05.46.21:489][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.07-05.46.21:496][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-05.46.21:549][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC08/Granny] ([2] browsable assets)...
+[2025.04.07-05.46.21:555][729]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LEC08/Granny.Granny]
+[2025.04.07-05.46.21:555][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC08/Granny]
+[2025.04.07-05.46.21:555][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC08/Granny" FILE="../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset" SILENT=true
+[2025.04.07-05.46.21:561][729]LogSavePackage: Moving output files for package: /Game/LEC08/Granny
+[2025.04.07-05.46.21:579][729]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/GrannyA79F7FA4451E4729D506F9BB47668F3B.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset'
+[2025.04.07-05.46.21:589][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.149 ms (total: 5.03 sec)
+[2025.04.07-05.46.21:664][729]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.07-05.46.21:664][729]LogContentValidation: Enabled validators:
+[2025.04.07-05.46.21:664][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-05.46.21:664][729]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-05.46.21:664][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-05.46.21:664][729]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-05.46.21:664][729]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-05.46.21:664][729]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-05.46.21:664][729]AssetCheck: /Game/LEC08/Granny Validating asset
+[2025.04.07-05.46.22:913][871]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-05.46.22:918][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-05.46.22:949][871]LogPlayLevel: Display: Creating online subsystem for client :Context_37
+[2025.04.07-05.46.22:952][871]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.04.07-05.46.22:962][872]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.46.22:964][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001716s)
+[2025.04.07-05.46.22:964][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.001753s)
+[2025.04.07-05.46.22:982][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.04.07-05.46.22:983][872]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-05.46.22:984][872]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-05.46.22:984][872]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2025.04.07-05.46.22:985][872]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.04.07-05.46.22:985][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-05.46.22:985][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-05.46.22:985][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-05.46.22:985][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-05.46.22:985][872]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-05.46.22:985][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-05.46.22:985][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-05.46.22:985][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-05.46.22:985][872]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-05.46.22:985][872]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-05.46.22:985][872]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-05.46.22:986][872]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-05.46.23:017][872]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-05.46.23:018][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-05.46.23:018][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-05.46.23:018][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-05.46.23:018][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.04.07-05.46.23:018][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.04.07-05.46.23:020][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.04.07-05.46.23:020][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.04.07-05.46.23:020][872]LogInit: FAudioDevice initialized with ID 20.
+[2025.04.07-05.46.23:020][872]LogAudio: Display: Audio Device (ID: 20) registered with world 'CharacterMap'.
+[2025.04.07-05.46.23:020][872]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.04.07-05.46.23:022][872]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-05.46.23:023][872]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-14.46.23
+[2025.04.07-05.46.23:023][872]LogWorld: Bringing up level for play took: 0.000651
+[2025.04.07-05.46.23:026][872]PIE: Server logged in
+[2025.04.07-05.46.23:027][872]PIE: Play in editor total start time 0.109 seconds.
+[2025.04.07-05.46.58:587][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.46.58:587][126]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.46.58:587][126]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.46.58:587][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.46.58:597][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-05.46.58:601][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.46.58:621][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.46.58:622][126]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.04.07-05.46.58:622][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.04.07-05.46.58:623][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.04.07-05.46.58:629][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.04.07-05.46.58:672][128]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.04.07-05.50.02:976][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.04.07-05.50.04:197][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.07-05.50.04:201][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-05.50.04:269][646]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC08/Granny] ([2] browsable assets)...
+[2025.04.07-05.50.04:273][646]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LEC08/Granny.Granny]
+[2025.04.07-05.50.04:274][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC08/Granny]
+[2025.04.07-05.50.04:274][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC08/Granny" FILE="../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset" SILENT=true
+[2025.04.07-05.50.04:281][646]LogSavePackage: Moving output files for package: /Game/LEC08/Granny
+[2025.04.07-05.50.04:282][646]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/GrannyD712A74046C65F9830B8C8BFEA2ED3EB.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset'
+[2025.04.07-05.50.04:294][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.783 ms (total: 5.12 sec)
+[2025.04.07-05.50.04:401][646]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.07-05.50.04:401][646]LogContentValidation: Enabled validators:
+[2025.04.07-05.50.04:401][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-05.50.04:401][646]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-05.50.04:401][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-05.50.04:401][646]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-05.50.04:401][646]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-05.50.04:401][646]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-05.50.04:401][646]AssetCheck: /Game/LEC08/Granny Validating asset
+[2025.04.07-05.50.13:151][641]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-05.50.13:156][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-05.50.13:187][641]LogPlayLevel: Display: Creating online subsystem for client :Context_38
+[2025.04.07-05.50.13:190][641]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.04.07-05.50.13:203][642]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.50.13:204][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001706s)
+[2025.04.07-05.50.13:204][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.001744s)
+[2025.04.07-05.50.13:225][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.04.07-05.50.13:226][642]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-05.50.13:227][642]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-05.50.13:227][642]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2025.04.07-05.50.13:229][642]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.04.07-05.50.13:229][642]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-05.50.13:229][642]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-05.50.13:229][642]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-05.50.13:229][642]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-05.50.13:229][642]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-05.50.13:229][642]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-05.50.13:229][642]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-05.50.13:229][642]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-05.50.13:229][642]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-05.50.13:229][642]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-05.50.13:229][642]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-05.50.13:231][642]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-05.50.13:261][642]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-05.50.13:261][642]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-05.50.13:261][642]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-05.50.13:261][642]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-05.50.13:262][642]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.04.07-05.50.13:262][642]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.04.07-05.50.13:264][642]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.04.07-05.50.13:264][642]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.04.07-05.50.13:264][642]LogInit: FAudioDevice initialized with ID 21.
+[2025.04.07-05.50.13:264][642]LogAudio: Display: Audio Device (ID: 21) registered with world 'CharacterMap'.
+[2025.04.07-05.50.13:264][642]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.04.07-05.50.13:267][642]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-05.50.13:268][642]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-14.50.13
+[2025.04.07-05.50.13:268][642]LogWorld: Bringing up level for play took: 0.000715
+[2025.04.07-05.50.13:270][642]PIE: Server logged in
+[2025.04.07-05.50.13:271][642]PIE: Play in editor total start time 0.116 seconds.
+[2025.04.07-05.50.24:357][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.50.24:358][958]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.50.24:358][958]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.50.24:358][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.50.24:372][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-05.50.24:377][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.50.24:396][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.50.24:396][958]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.04.07-05.50.24:396][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.04.07-05.50.24:398][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.04.07-05.50.24:403][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.04.07-05.50.24:428][959]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.04.07-05.51.04:598][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.07-05.51.05:731][797]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-05.51.05:736][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-05.51.05:776][797]LogPlayLevel: Display: Creating online subsystem for client :Context_39
+[2025.04.07-05.51.05:779][797]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.04.07-05.51.05:790][798]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.51.05:791][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001672s)
+[2025.04.07-05.51.05:791][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.001707s)
+[2025.04.07-05.51.05:808][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.04.07-05.51.05:810][798]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-05.51.05:811][798]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-05.51.05:811][798]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2025.04.07-05.51.05:812][798]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.04.07-05.51.05:812][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-05.51.05:812][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-05.51.05:812][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-05.51.05:812][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-05.51.05:812][798]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-05.51.05:812][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-05.51.05:812][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-05.51.05:812][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-05.51.05:812][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-05.51.05:812][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-05.51.05:812][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-05.51.05:814][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-05.51.05:844][798]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-05.51.05:845][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-05.51.05:845][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-05.51.05:845][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-05.51.05:845][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.04.07-05.51.05:845][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.04.07-05.51.05:847][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.04.07-05.51.05:847][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.04.07-05.51.05:847][798]LogInit: FAudioDevice initialized with ID 22.
+[2025.04.07-05.51.05:847][798]LogAudio: Display: Audio Device (ID: 22) registered with world 'CharacterMap'.
+[2025.04.07-05.51.05:847][798]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.04.07-05.51.05:849][798]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-05.51.05:850][798]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-14.51.05
+[2025.04.07-05.51.05:850][798]LogWorld: Bringing up level for play took: 0.000757
+[2025.04.07-05.51.05:853][798]PIE: Server logged in
+[2025.04.07-05.51.05:855][798]PIE: Play in editor total start time 0.118 seconds.
+[2025.04.07-05.51.18:845][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.51.18:845][344]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.51.18:845][344]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.51.18:846][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.51.18:857][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-05.51.18:861][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.51.18:881][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.07-05.51.18:881][344]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.04.07-05.51.18:881][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.04.07-05.51.18:883][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.04.07-05.51.18:886][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.51.18:888][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.04.07-05.51.18:913][345]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.04.07-05.51.56:899][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.07-05.52.01:059][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.04.07-05.52.01:840][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.04.07-05.52.01:846][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-05.52.01:914][271]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC08/Granny] ([2] browsable assets)...
+[2025.04.07-05.52.01:920][271]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LEC08/Granny.Granny]
+[2025.04.07-05.52.01:920][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC08/Granny]
+[2025.04.07-05.52.01:920][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC08/Granny" FILE="../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset" SILENT=true
+[2025.04.07-05.52.01:925][271]LogSavePackage: Moving output files for package: /Game/LEC08/Granny
+[2025.04.07-05.52.01:945][271]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/GrannyE2E6D99C47C6E5E845E4049843EC6F70.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset'
+[2025.04.07-05.52.01:955][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.140 ms (total: 5.23 sec)
+[2025.04.07-05.52.02:052][271]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.07-05.52.02:052][271]LogContentValidation: Enabled validators:
+[2025.04.07-05.52.02:052][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-05.52.02:052][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-05.52.02:052][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-05.52.02:052][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-05.52.02:052][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-05.52.02:052][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-05.52.02:054][271]AssetCheck: /Game/LEC08/Granny Validating asset
+[2025.04.07-05.52.03:538][442]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-05.52.03:562][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-05.52.03:582][442]LogPlayLevel: Display: Creating online subsystem for client :Context_40
+[2025.04.07-05.52.03:586][442]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.04.07-05.52.03:597][443]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.52.03:599][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001651s)
+[2025.04.07-05.52.03:599][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.001687s)
+[2025.04.07-05.52.03:616][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.04.07-05.52.03:617][443]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-05.52.03:618][443]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-05.52.03:619][443]LogPlayLevel: PIE: World Init took: (0.001417s)
+[2025.04.07-05.52.03:619][443]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.04.07-05.52.03:619][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-05.52.03:619][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-05.52.03:619][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-05.52.03:619][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-05.52.03:619][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-05.52.03:619][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-05.52.03:619][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-05.52.03:619][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-05.52.03:619][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-05.52.03:619][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-05.52.03:619][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-05.52.03:622][443]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-05.52.03:651][443]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-05.52.03:652][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-05.52.03:652][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-05.52.03:652][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-05.52.03:653][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.04.07-05.52.03:653][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.04.07-05.52.03:655][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.04.07-05.52.03:655][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.04.07-05.52.03:655][443]LogInit: FAudioDevice initialized with ID 23.
+[2025.04.07-05.52.03:655][443]LogAudio: Display: Audio Device (ID: 23) registered with world 'CharacterMap'.
+[2025.04.07-05.52.03:655][443]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.04.07-05.52.03:657][443]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-05.52.03:658][443]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-14.52.03
+[2025.04.07-05.52.03:658][443]LogWorld: Bringing up level for play took: 0.000659
+[2025.04.07-05.52.03:660][443]PIE: Server logged in
+[2025.04.07-05.52.03:662][443]PIE: Play in editor total start time 0.1 seconds.
+[2025.04.07-05.52.25:522][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.52.25:522][ 52]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.52.25:522][ 52]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.52.25:523][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.52.25:534][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-05.52.25:538][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.52.25:554][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.52.25:554][ 52]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.04.07-05.52.25:554][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.04.07-05.52.25:557][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.04.07-05.52.25:565][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.04.07-05.52.25:642][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.04.07-05.52.40:203][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.04.07-05.53.30:168][491]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-05.53.30:192][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-05.53.30:229][491]LogPlayLevel: Display: Creating online subsystem for client :Context_41
+[2025.04.07-05.53.30:236][491]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.04.07-05.53.30:251][492]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.53.30:252][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001756s)
+[2025.04.07-05.53.30:252][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.001800s)
+[2025.04.07-05.53.30:269][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.04.07-05.53.30:270][492]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-05.53.30:271][492]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-05.53.30:271][492]LogPlayLevel: PIE: World Init took: (0.001432s)
+[2025.04.07-05.53.30:272][492]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.04.07-05.53.30:272][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-05.53.30:272][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-05.53.30:272][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-05.53.30:272][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-05.53.30:272][492]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-05.53.30:272][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-05.53.30:272][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-05.53.30:272][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-05.53.30:272][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-05.53.30:272][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-05.53.30:272][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-05.53.30:275][492]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-05.53.30:305][492]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-05.53.30:305][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-05.53.30:305][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-05.53.30:305][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-05.53.30:306][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.04.07-05.53.30:306][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.04.07-05.53.30:307][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.04.07-05.53.30:307][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.04.07-05.53.30:307][492]LogInit: FAudioDevice initialized with ID 24.
+[2025.04.07-05.53.30:307][492]LogAudio: Display: Audio Device (ID: 24) registered with world 'CharacterMap'.
+[2025.04.07-05.53.30:307][492]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.04.07-05.53.30:310][492]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-05.53.30:311][492]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-14.53.30
+[2025.04.07-05.53.30:311][492]LogWorld: Bringing up level for play took: 0.000781
+[2025.04.07-05.53.30:313][492]PIE: Server logged in
+[2025.04.07-05.53.30:314][492]PIE: Play in editor total start time 0.123 seconds.
+[2025.04.07-05.53.49:309][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.53.49:309][759]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.53.49:309][759]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.53.49:310][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.53.49:315][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-05.53.49:320][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.53.49:339][759]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.07-05.53.49:339][759]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.04.07-05.53.49:339][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.04.07-05.53.49:340][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.04.07-05.53.49:343][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.53.49:346][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.04.07-05.53.49:387][761]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.04.07-05.57.43:333][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.07-05.57.45:235][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.07-05.57.45:240][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-05.57.45:321][353]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC08/Granny] ([2] browsable assets)...
+[2025.04.07-05.57.45:327][353]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LEC08/Granny.Granny]
+[2025.04.07-05.57.45:327][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC08/Granny]
+[2025.04.07-05.57.45:327][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC08/Granny" FILE="../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset" SILENT=true
+[2025.04.07-05.57.45:333][353]LogSavePackage: Moving output files for package: /Game/LEC08/Granny
+[2025.04.07-05.57.45:336][353]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/GrannyD7462BF046A315F76F74AA8A4AA7AC2D.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/Granny.uasset'
+[2025.04.07-05.57.45:337][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC08/GrannyPlayerController] ([2] browsable assets)...
+[2025.04.07-05.57.45:337][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC08/GrannyPlayerController]
+[2025.04.07-05.57.45:337][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC08/GrannyPlayerController" FILE="../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/GrannyPlayerController.uasset" SILENT=true
+[2025.04.07-05.57.45:342][353]LogSavePackage: Moving output files for package: /Game/LEC08/GrannyPlayerController
+[2025.04.07-05.57.45:343][353]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/GrannyPlayerController1A7D64504B106D18640742A13A8D8C78.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/GrannyPlayerController.uasset'
+[2025.04.07-05.57.45:354][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.915 ms (total: 5.34 sec)
+[2025.04.07-05.57.45:452][353]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.07-05.57.45:452][353]LogContentValidation: Enabled validators:
+[2025.04.07-05.57.45:452][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-05.57.45:452][353]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-05.57.45:452][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-05.57.45:452][353]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-05.57.45:452][353]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-05.57.45:452][353]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-05.57.45:452][353]AssetCheck: /Game/LEC08/Granny Validating asset
+[2025.04.07-05.57.45:452][353]AssetCheck: /Game/LEC08/GrannyPlayerController Validating asset
+[2025.04.07-05.57.46:858][515]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-05.57.46:863][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-05.57.46:909][515]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2025.04.07-05.57.46:914][515]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.04.07-05.57.46:929][516]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.57.46:931][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001642s)
+[2025.04.07-05.57.46:931][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.001680s)
+[2025.04.07-05.57.46:950][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.04.07-05.57.46:951][516]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-05.57.46:952][516]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-05.57.46:952][516]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2025.04.07-05.57.46:953][516]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.04.07-05.57.46:953][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-05.57.46:953][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-05.57.46:953][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-05.57.46:953][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-05.57.46:953][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-05.57.46:953][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-05.57.46:953][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-05.57.46:953][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-05.57.46:953][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-05.57.46:953][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-05.57.46:953][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-05.57.46:956][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-05.57.46:986][516]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-05.57.46:986][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-05.57.46:986][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-05.57.46:986][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-05.57.46:986][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.04.07-05.57.46:986][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.04.07-05.57.46:989][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.04.07-05.57.46:989][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.04.07-05.57.46:989][516]LogInit: FAudioDevice initialized with ID 25.
+[2025.04.07-05.57.46:989][516]LogAudio: Display: Audio Device (ID: 25) registered with world 'CharacterMap'.
+[2025.04.07-05.57.46:989][516]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.04.07-05.57.46:992][516]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-05.57.46:993][516]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-14.57.46
+[2025.04.07-05.57.46:993][516]LogWorld: Bringing up level for play took: 0.000679
+[2025.04.07-05.57.46:995][516]PIE: Server logged in
+[2025.04.07-05.57.46:996][516]PIE: Play in editor total start time 0.133 seconds.
+[2025.04.07-05.58.25:907][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.58.25:907][170]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-05.58.25:907][170]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-05.58.25:908][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.58.25:921][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-05.58.25:925][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-05.58.25:943][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-05.58.25:943][170]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.04.07-05.58.25:943][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.04.07-05.58.25:945][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.04.07-05.58.25:951][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.07-05.58.25:993][172]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.04.07-05.59.17:121][350]LogSlate: Window 'World Settings' being destroyed
+[2025.04.07-06.00.06:730][865]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.04.07-06.00.06:730][865]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.04.07-06.00.07:842][943]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/LEC08/CharacterMap.CharacterMap:PersistentLevel.CharacterMap
+[2025.04.07-06.00.07:842][943]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.04.07-06.00.07:843][943]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.04.07-06.02.23:598][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.04.07-06.02.24:683][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.04.07-06.02.24:687][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-06.02.24:809][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.04.07-06.02.24:818][561]LogSavePackage: Moving output files for package: /Game/LEC08/CharacterMap
+[2025.04.07-06.02.24:819][561]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/CharacterMapC3E8C1FA425D24DDE19796A7EBDDB8B1.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/CharacterMap.umap'
+[2025.04.07-06.02.24:828][561]LogFileHelpers: Saving map 'CharacterMap' took 0.073
+[2025.04.07-06.02.24:838][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.714 ms (total: 5.49 sec)
+[2025.04.07-06.02.24:920][561]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.07-06.02.24:920][561]LogContentValidation: Enabled validators:
+[2025.04.07-06.02.24:920][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-06.02.24:920][561]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-06.02.24:920][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-06.02.24:920][561]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-06.02.24:920][561]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-06.02.24:920][561]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-06.02.24:920][561]AssetCheck: /Game/LEC08/CharacterMap Validating asset
+[2025.04.07-06.02.27:264][826]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-06.02.27:269][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-06.02.27:298][826]LogPlayLevel: Display: Creating online subsystem for client :Context_45
+[2025.04.07-06.02.27:300][826]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.04.07-06.02.27:317][827]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-06.02.27:319][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002082s)
+[2025.04.07-06.02.27:319][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.002128s)
+[2025.04.07-06.02.27:336][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.07-06.02.27:338][827]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-06.02.27:339][827]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-06.02.27:339][827]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2025.04.07-06.02.27:340][827]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.04.07-06.02.27:340][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-06.02.27:340][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-06.02.27:340][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-06.02.27:340][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-06.02.27:340][827]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-06.02.27:340][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-06.02.27:340][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-06.02.27:340][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-06.02.27:340][827]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-06.02.27:340][827]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-06.02.27:340][827]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-06.02.27:342][827]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-06.02.27:374][827]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-06.02.27:374][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-06.02.27:374][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-06.02.27:374][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-06.02.27:374][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.04.07-06.02.27:374][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.04.07-06.02.27:377][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.04.07-06.02.27:377][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.04.07-06.02.27:377][827]LogInit: FAudioDevice initialized with ID 26.
+[2025.04.07-06.02.27:377][827]LogAudio: Display: Audio Device (ID: 26) registered with world 'CharacterMap'.
+[2025.04.07-06.02.27:377][827]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.04.07-06.02.27:380][827]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-06.02.27:380][827]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-15.02.27
+[2025.04.07-06.02.27:382][827]LogWorld: Bringing up level for play took: 0.001803
+[2025.04.07-06.02.27:384][827]PIE: Server logged in
+[2025.04.07-06.02.27:385][827]PIE: Play in editor total start time 0.116 seconds.
+[2025.04.07-06.02.52:896][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-06.02.52:896][801]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-06.02.52:896][801]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.02.52:896][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.02.52:901][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-06.02.52:906][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.02.52:922][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-06.02.52:922][801]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.04.07-06.02.52:922][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.04.07-06.02.52:924][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.04.07-06.02.52:931][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.04.07-06.02.52:980][802]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.04.07-06.03.26:022][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.04.07-06.03.26:804][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.04.07-06.03.26:808][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-06.03.26:959][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.04.07-06.03.26:970][696]LogSavePackage: Moving output files for package: /Game/LEC08/CharacterMap
+[2025.04.07-06.03.26:971][696]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/CharacterMapD34E6C8445E42EA7503BF49EE278D36D.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/CharacterMap.umap'
+[2025.04.07-06.03.26:981][696]LogFileHelpers: Saving map 'CharacterMap' took 0.074
+[2025.04.07-06.03.26:989][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.579 ms (total: 5.68 sec)
+[2025.04.07-06.03.27:082][696]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.07-06.03.27:082][696]LogContentValidation: Enabled validators:
+[2025.04.07-06.03.27:082][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-06.03.27:082][696]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-06.03.27:082][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-06.03.27:082][696]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-06.03.27:082][696]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-06.03.27:082][696]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-06.03.27:082][696]AssetCheck: /Game/LEC08/CharacterMap Validating asset
+[2025.04.07-06.04.59:901][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.07-06.05.01:073][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.04.07-06.05.01:077][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-06.05.01:191][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.07-06.05.01:202][468]LogSavePackage: Moving output files for package: /Game/LEC08/CharacterMap
+[2025.04.07-06.05.01:203][468]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/CharacterMap6E120CA94B854B5517A769934F0F7196.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/CharacterMap.umap'
+[2025.04.07-06.05.01:215][468]LogFileHelpers: Saving map 'CharacterMap' took 0.061
+[2025.04.07-06.05.01:228][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.627 ms (total: 5.83 sec)
+[2025.04.07-06.05.01:313][468]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.07-06.05.01:313][468]LogContentValidation: Enabled validators:
+[2025.04.07-06.05.01:313][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-06.05.01:313][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-06.05.01:313][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-06.05.01:313][468]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-06.05.01:313][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-06.05.01:313][468]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-06.05.01:313][468]AssetCheck: /Game/LEC08/CharacterMap Validating asset
+[2025.04.07-06.05.36:293][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.04.07-06.05.36:297][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-06.05.36:436][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.07-06.05.36:445][540]LogSavePackage: Moving output files for package: /Game/LEC08/CharacterMap
+[2025.04.07-06.05.36:447][540]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/CharacterMap2E8FA2A645510F7BA1F109A4731D4D68.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/CharacterMap.umap'
+[2025.04.07-06.05.36:456][540]LogFileHelpers: Saving map 'CharacterMap' took 0.073
+[2025.04.07-06.05.36:465][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.320 ms (total: 5.99 sec)
+[2025.04.07-06.05.36:543][540]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.07-06.05.36:543][540]LogContentValidation: Enabled validators:
+[2025.04.07-06.05.36:543][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-06.05.36:543][540]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-06.05.36:543][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-06.05.36:543][540]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-06.05.36:543][540]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-06.05.36:543][540]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-06.05.36:543][540]AssetCheck: /Game/LEC08/CharacterMap Validating asset
+[2025.04.07-06.06.49:731][296]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-06.06.49:756][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-06.06.49:777][296]LogPlayLevel: Display: Creating online subsystem for client :Context_46
+[2025.04.07-06.06.49:782][296]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.04.07-06.06.49:802][297]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-06.06.49:805][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002515s)
+[2025.04.07-06.06.49:805][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.002558s)
+[2025.04.07-06.06.49:824][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.07-06.06.49:826][297]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-06.06.49:827][297]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-06.06.49:827][297]LogPlayLevel: PIE: World Init took: (0.001535s)
+[2025.04.07-06.06.49:828][297]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.04.07-06.06.49:828][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-06.06.49:828][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-06.06.49:828][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-06.06.49:828][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-06.06.49:828][297]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-06.06.49:828][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-06.06.49:828][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-06.06.49:828][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-06.06.49:828][297]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-06.06.49:828][297]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-06.06.49:828][297]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-06.06.49:830][297]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-06.06.49:860][297]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-06.06.49:861][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-06.06.49:861][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-06.06.49:861][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-06.06.49:861][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.04.07-06.06.49:861][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.04.07-06.06.49:864][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.04.07-06.06.49:864][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.04.07-06.06.49:864][297]LogInit: FAudioDevice initialized with ID 27.
+[2025.04.07-06.06.49:864][297]LogAudio: Display: Audio Device (ID: 27) registered with world 'CharacterMap'.
+[2025.04.07-06.06.49:864][297]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.04.07-06.06.49:867][297]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-06.06.49:867][297]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-15.06.49
+[2025.04.07-06.06.49:868][297]LogWorld: Bringing up level for play took: 0.000876
+[2025.04.07-06.06.49:870][297]PIE: Server logged in
+[2025.04.07-06.06.49:871][297]PIE: Play in editor total start time 0.115 seconds.
+[2025.04.07-06.07.00:788][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-06.07.00:788][555]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-06.07.00:789][555]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.07.00:789][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.07.00:802][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-06.07.00:807][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.07.00:825][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.07-06.07.00:825][555]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.04.07-06.07.00:825][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.04.07-06.07.00:828][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.04.07-06.07.00:834][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-06.07.00:836][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.07-06.07.00:957][556]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.04.07-06.07.29:042][936]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-06.07.29:065][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-06.07.29:066][936]LogPlayLevel: Display: Creating online subsystem for client :Context_47
+[2025.04.07-06.07.29:067][936]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.04.07-06.07.29:085][937]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-06.07.29:087][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002123s)
+[2025.04.07-06.07.29:087][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.002158s)
+[2025.04.07-06.07.29:104][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.07-06.07.29:105][937]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-06.07.29:106][937]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-06.07.29:106][937]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2025.04.07-06.07.29:107][937]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.04.07-06.07.29:107][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-06.07.29:107][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-06.07.29:107][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-06.07.29:107][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-06.07.29:107][937]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-06.07.29:107][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-06.07.29:107][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-06.07.29:107][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-06.07.29:107][937]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-06.07.29:107][937]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-06.07.29:107][937]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-06.07.29:108][937]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-06.07.29:138][937]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-06.07.29:138][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-06.07.29:138][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-06.07.29:138][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-06.07.29:139][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.04.07-06.07.29:139][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.04.07-06.07.29:142][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.04.07-06.07.29:142][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.04.07-06.07.29:142][937]LogInit: FAudioDevice initialized with ID 28.
+[2025.04.07-06.07.29:142][937]LogAudio: Display: Audio Device (ID: 28) registered with world 'CharacterMap'.
+[2025.04.07-06.07.29:142][937]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.04.07-06.07.29:144][937]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-06.07.29:145][937]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-15.07.29
+[2025.04.07-06.07.29:145][937]LogWorld: Bringing up level for play took: 0.000674
+[2025.04.07-06.07.29:147][937]PIE: Server logged in
+[2025.04.07-06.07.29:148][937]PIE: Play in editor total start time 0.084 seconds.
+[2025.04.07-06.07.33:707][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-06.07.33:707][456]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-06.07.33:708][456]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.07.33:708][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.07.33:713][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-06.07.33:717][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.07.33:735][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-06.07.33:735][456]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.04.07-06.07.33:735][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.04.07-06.07.33:738][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.04.07-06.07.33:745][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.04.07-06.07.33:866][457]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.04.07-06.07.53:152][633]Cmd: TRANSACTION UNDO
+[2025.04.07-06.07.53:152][633]LogEditorTransaction: Undo Attach actors
+[2025.04.07-06.07.53:319][633]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.07-06.07.54:078][683]Cmd: TRANSACTION UNDO
+[2025.04.07-06.07.54:078][683]LogEditorTransaction: Undo Clicking on Actors
+[2025.04.07-06.07.54:216][683]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.07-06.08.09:864][538]Cmd: TRANSACTION UNDO
+[2025.04.07-06.08.09:864][538]LogEditorTransaction: Undo Clicking on Actors
+[2025.04.07-06.08.10:089][538]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.07-06.08.11:225][633]Cmd: TRANSACTION UNDO
+[2025.04.07-06.08.11:225][633]LogEditorTransaction: Undo Attach actors
+[2025.04.07-06.08.11:365][633]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.07-06.08.24:263][141]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-06.08.24:286][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-06.08.24:286][141]LogPlayLevel: Display: Creating online subsystem for client :Context_48
+[2025.04.07-06.08.24:288][141]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.04.07-06.08.24:304][142]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-06.08.24:306][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002065s)
+[2025.04.07-06.08.24:306][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.002101s)
+[2025.04.07-06.08.24:324][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.07-06.08.24:326][142]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-06.08.24:326][142]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-06.08.24:327][142]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2025.04.07-06.08.24:327][142]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.04.07-06.08.24:327][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-06.08.24:327][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-06.08.24:327][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-06.08.24:327][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-06.08.24:327][142]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-06.08.24:327][142]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-06.08.24:327][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-06.08.24:327][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-06.08.24:327][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-06.08.24:328][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-06.08.24:328][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-06.08.24:330][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-06.08.24:360][142]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-06.08.24:360][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-06.08.24:360][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-06.08.24:360][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-06.08.24:361][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.04.07-06.08.24:361][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.04.07-06.08.24:363][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.04.07-06.08.24:363][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.04.07-06.08.24:363][142]LogInit: FAudioDevice initialized with ID 29.
+[2025.04.07-06.08.24:363][142]LogAudio: Display: Audio Device (ID: 29) registered with world 'CharacterMap'.
+[2025.04.07-06.08.24:363][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.04.07-06.08.24:365][142]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-06.08.24:366][142]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-15.08.24
+[2025.04.07-06.08.24:366][142]LogWorld: Bringing up level for play took: 0.000672
+[2025.04.07-06.08.24:369][142]PIE: Server logged in
+[2025.04.07-06.08.24:370][142]PIE: Play in editor total start time 0.083 seconds.
+[2025.04.07-06.08.48:259][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.04.07-06.08.49:896][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-06.08.49:896][ 22]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-06.08.49:896][ 22]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.08.49:897][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.08.49:899][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-06.08.49:905][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.08.49:921][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-06.08.49:921][ 22]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.04.07-06.08.49:921][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.04.07-06.08.49:924][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.04.07-06.08.49:931][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.07-06.08.50:086][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.04.07-06.08.50:477][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
