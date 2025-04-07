@@ -4388,3 +4388,95 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.04.07-06.08.49:931][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
 [2025.04.07-06.08.50:086][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_48
 [2025.04.07-06.08.50:477][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.04.07-06.09.30:146][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.04.07-06.09.30:152][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-06.09.30:279][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.07-06.09.30:289][271]LogSavePackage: Moving output files for package: /Game/LEC08/CharacterMap
+[2025.04.07-06.09.30:290][271]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/CharacterMap08B6B26D4B7ADC1887992C997BA5DEBA.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/CharacterMap.umap'
+[2025.04.07-06.09.30:299][271]LogFileHelpers: Saving map 'CharacterMap' took 0.062
+[2025.04.07-06.09.30:307][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.958 ms (total: 6.15 sec)
+[2025.04.07-06.09.30:403][271]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.07-06.09.30:403][271]LogContentValidation: Enabled validators:
+[2025.04.07-06.09.30:403][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-06.09.30:403][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-06.09.30:403][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-06.09.30:403][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-06.09.30:403][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-06.09.30:403][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-06.09.30:403][271]AssetCheck: /Game/LEC08/CharacterMap Validating asset
+[2025.04.07-06.09.53:205][145]Cmd: TRANSACTION UNDO
+[2025.04.07-06.09.53:205][145]LogEditorTransaction: Undo Clicking on Actors
+[2025.04.07-06.09.53:378][145]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.07-06.09.56:430][454]Cmd: TRANSACTION UNDO
+[2025.04.07-06.09.56:430][454]LogEditorTransaction: Undo Pilot Actor
+[2025.04.07-06.09.56:572][454]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.07-06.10.10:881][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.07-06.10.10:885][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-06.10.10:993][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.04.07-06.10.11:002][142]LogSavePackage: Moving output files for package: /Game/LEC08/CharacterMap
+[2025.04.07-06.10.11:002][142]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Saved/CharacterMap2260BD63446CF1620190809708CD47BB.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/여덟부터/Content/LEC08/CharacterMap.umap'
+[2025.04.07-06.10.11:011][142]LogFileHelpers: Saving map 'CharacterMap' took 0.072
+[2025.04.07-06.10.11:021][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.334 ms (total: 6.29 sec)
+[2025.04.07-06.10.11:103][142]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.07-06.10.11:103][142]LogContentValidation: Enabled validators:
+[2025.04.07-06.10.11:103][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-06.10.11:103][142]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-06.10.11:103][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-06.10.11:103][142]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-06.10.11:103][142]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-06.10.11:103][142]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-06.10.11:103][142]AssetCheck: /Game/LEC08/CharacterMap Validating asset
+[2025.04.07-06.10.13:698][417]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.07-06.10.13:722][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.07-06.10.13:763][417]LogPlayLevel: Display: Creating online subsystem for client :Context_49
+[2025.04.07-06.10.13:768][417]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.04.07-06.10.13:787][418]LogPlayLevel: Creating play world package: /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-06.10.13:789][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002067s)
+[2025.04.07-06.10.13:789][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08/CharacterMap.CharacterMap to /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap (0.002110s)
+[2025.04.07-06.10.13:807][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.07-06.10.13:809][418]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.07-06.10.13:811][418]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.07-06.10.13:811][418]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2025.04.07-06.10.13:812][418]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.04.07-06.10.13:812][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.07-06.10.13:812][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.07-06.10.13:812][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.07-06.10.13:812][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.07-06.10.13:812][418]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.07-06.10.13:812][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.07-06.10.13:812][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.07-06.10.13:812][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.07-06.10.13:812][418]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.07-06.10.13:812][418]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.07-06.10.13:812][418]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.07-06.10.13:814][418]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.07-06.10.13:844][418]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.07-06.10.13:844][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.07-06.10.13:844][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.07-06.10.13:844][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.07-06.10.13:845][418]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.04.07-06.10.13:845][418]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.04.07-06.10.13:847][418]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.04.07-06.10.13:847][418]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.04.07-06.10.13:847][418]LogInit: FAudioDevice initialized with ID 30.
+[2025.04.07-06.10.13:847][418]LogAudio: Display: Audio Device (ID: 30) registered with world 'CharacterMap'.
+[2025.04.07-06.10.13:847][418]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.04.07-06.10.13:849][418]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.07-06.10.13:850][418]LogWorld: Bringing World /Game/LEC08/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.07-15.10.13
+[2025.04.07-06.10.13:850][418]LogWorld: Bringing up level for play took: 0.000707
+[2025.04.07-06.10.13:852][418]PIE: Server logged in
+[2025.04.07-06.10.13:853][418]PIE: Play in editor total start time 0.131 seconds.
+[2025.04.07-06.10.20:462][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-06.10.20:463][173]LogWorld: BeginTearingDown for /Game/LEC08/UEDPIE_0_CharacterMap
+[2025.04.07-06.10.20:463][173]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.10.20:463][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.10.20:468][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.07-06.10.20:472][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.10.20:490][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.07-06.10.20:490][173]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.04.07-06.10.20:490][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.04.07-06.10.20:493][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.04.07-06.10.20:498][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.07-06.10.20:618][174]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.04.07-06.10.25:787][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.04.07-06.10.27:097][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
