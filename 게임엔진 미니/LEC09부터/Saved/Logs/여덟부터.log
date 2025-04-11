@@ -4653,3 +4653,87 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.04.11-05.50.03:335][218]LogEditorTransaction: Undo Moving Blendspace Sample
 [2025.04.11-05.50.03:612][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
 [2025.04.11-05.50.03:613][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.11-05.51.14:327][624]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.11-05.51.14:351][624]LogPlayLevel: [PlayLevel] Compiling GrannyAnimationBP before play...
+[2025.04.11-05.51.14:352][624]LogPlayLevel: [PlayLevel]   Compiling Granny10 as a dependent...
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Hips' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Spine' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Head' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Visor1' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Whistle0' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Hood0' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.04.11-05.51.14:373][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Hips' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Spine' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Head' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Visor1' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Whistle0' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'Hood0' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.04.11-05.51.14:374][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Granny_C_0 /Engine/Transient.World_16:PersistentLevel.Granny_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2025.04.11-05.51.14:430][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.04.11-05.51.14:431][624]LogPlayLevel: PlayLevel: Blueprint regeneration took 81 ms (2 blueprints)
+[2025.04.11-05.51.14:461][624]LogPlayLevel: Creating play world package: /Game/LEC10/UEDPIE_0_CharacterMap
+[2025.04.11-05.51.14:463][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001938s)
+[2025.04.11-05.51.14:463][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC10/CharacterMap.CharacterMap to /Game/LEC10/UEDPIE_0_CharacterMap.CharacterMap (0.001979s)
+[2025.04.11-05.51.14:490][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.04.11-05.51.14:491][624]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.11-05.51.14:492][624]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/LEC10/UEDPIE_0_CharacterMap.CharacterMap'.
+[2025.04.11-05.51.14:492][624]LogPlayLevel: PIE: World Init took: (0.001387s)
+[2025.04.11-05.51.14:493][624]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.04.11-05.51.14:493][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.11-05.51.14:493][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.11-05.51.14:493][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.11-05.51.14:493][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.11-05.51.14:493][624]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.11-05.51.14:493][624]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.11-05.51.14:493][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.11-05.51.14:493][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.11-05.51.14:493][624]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.11-05.51.14:493][624]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.11-05.51.14:493][624]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.11-05.51.14:495][624]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.11-05.51.14:526][624]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.11-05.51.14:526][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.11-05.51.14:526][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.11-05.51.14:526][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.11-05.51.14:527][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.04.11-05.51.14:527][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.04.11-05.51.14:530][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.04.11-05.51.14:530][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.04.11-05.51.14:530][624]LogInit: FAudioDevice initialized with ID 39.
+[2025.04.11-05.51.14:530][624]LogAudio: Display: Audio Device (ID: 39) registered with world 'CharacterMap'.
+[2025.04.11-05.51.14:530][624]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.04.11-05.51.14:532][624]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.11-05.51.14:533][624]LogWorld: Bringing World /Game/LEC10/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.11-14.51.14
+[2025.04.11-05.51.14:533][624]LogWorld: Bringing up level for play took: 0.000773
+[2025.04.11-05.51.14:535][624]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2025.04.11-05.51.14:538][624]PIE: Server logged in
+[2025.04.11-05.51.14:538][624]PIE: Play in editor total start time 0.189 seconds.
+[2025.04.11-05.51.24:982][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.11-05.51.24:982][848]LogWorld: BeginTearingDown for /Game/LEC10/UEDPIE_0_CharacterMap
+[2025.04.11-05.51.24:982][848]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-05.51.24:982][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-05.51.24:985][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.11-05.51.24:989][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-05.51.25:007][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.11-05.51.25:007][848]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.04.11-05.51.25:007][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.04.11-05.51.25:010][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.04.11-05.51.25:017][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.04.11-05.51.25:067][850]LogPlayLevel: Display: Destroying online subsystem :Context_78
