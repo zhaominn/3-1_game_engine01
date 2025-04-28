@@ -2569,3 +2569,65 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.28-06.02.29:732][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
 [2025.04.28-06.02.29:737][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
 [2025.04.28-06.02.29:776][793]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.04.28-06.03.46:769][618]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.04.28-06.03.46:782][618]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.04.28-06.03.46:787][618]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.04.28-06.03.46:842][619]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.04.28-06.03.55:939][692]LogContentBrowser: Attempting asset rename: NewBlueprint -> TargetHUD
+[2025.04.28-06.03.55:946][692]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.04.28-06.03.57:813][904]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LEC11/TargetHUD.TargetHUD
+[2025.04.28-06.03.57:813][904]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.04.28-06.03.57:813][904]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.04.28-06.04.00:763][115]LogSlate: Window 'TargetHUD' being destroyed
+[2025.04.28-06.04.03:551][426]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-06.04.03:551][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-06.04.03:569][426]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-06.04.03:569][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-06.04.03:622][426]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-06.04.03:622][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-06.04.03:665][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.28-06.04.04:810][556]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-06.04.04:810][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-06.04.04:857][556]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-06.04.04:857][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-06.04.04:879][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.04.28-06.04.06:449][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.04.28-06.04.06:452][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-06.04.06:512][727]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC11/TargetHUD] ([2] browsable assets)...
+[2025.04.28-06.04.06:512][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC11/TargetHUD]
+[2025.04.28-06.04.06:512][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC11/TargetHUD" FILE="../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/LEC09부터/Content/LEC11/TargetHUD.uasset" SILENT=true
+[2025.04.28-06.04.06:514][727]LogSavePackage: Moving output files for package: /Game/LEC11/TargetHUD
+[2025.04.28-06.04.06:514][727]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/LEC09부터/Saved/TargetHUD916850844D631FEC1C2B5FA4CE01A4B0.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/LEC09부터/Content/LEC11/TargetHUD.uasset'
+[2025.04.28-06.04.06:537][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.817 ms (total: 1.20 sec)
+[2025.04.28-06.04.06:610][727]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-06.04.06:610][727]LogContentValidation: Enabled validators:
+[2025.04.28-06.04.06:610][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-06.04.06:610][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-06.04.06:610][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-06.04.06:610][727]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-06.04.06:610][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-06.04.06:610][727]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-06.04.06:610][727]AssetCheck: /Game/LEC11/TargetHUD Validating asset
+[2025.04.28-06.05.26:530][300]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.28-06.05.58:038][  2]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.04.28-06.05.58:039][  2]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.04.28-06.05.58:039][  2]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.04.28-06.05.58:039][  2]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.04.28-06.06.16:777][218]LogStreaming: Display: FlushAsyncLoading(682): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.28-06.07.15:413][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.28-06.07.15:420][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-06.07.15:503][242]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC11/TargetHUD] ([2] browsable assets)...
+[2025.04.28-06.07.15:503][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC11/TargetHUD]
+[2025.04.28-06.07.15:503][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC11/TargetHUD" FILE="../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/LEC09부터/Content/LEC11/TargetHUD.uasset" SILENT=true
+[2025.04.28-06.07.15:507][242]LogSavePackage: Moving output files for package: /Game/LEC11/TargetHUD
+[2025.04.28-06.07.15:509][242]LogSavePackage: Moving '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/LEC09부터/Saved/TargetHUDA3EA1B1D4F74F1C0B757FBAFFEFF239F.tmp' to '../../../../../../Users/user/Documents/3-1_game_engine01/게임엔진 미니/LEC09부터/Content/LEC11/TargetHUD.uasset'
+[2025.04.28-06.07.15:517][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.131 ms (total: 1.30 sec)
+[2025.04.28-06.07.15:576][242]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-06.07.15:576][242]LogContentValidation: Enabled validators:
+[2025.04.28-06.07.15:576][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-06.07.15:576][242]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-06.07.15:576][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-06.07.15:576][242]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-06.07.15:576][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-06.07.15:576][242]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-06.07.15:576][242]AssetCheck: /Game/LEC11/TargetHUD Validating asset
