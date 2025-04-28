@@ -1,3 +1,2 @@
-2025/04/27-14:45:15.878 ab24 Reusing MANIFEST C:/Users/somin/OneDrive/3-1_game_engine01/게임엔진 미니/LEC09부터/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/04/27-14:45:15.881 ab24 Recovering log #3
-2025/04/27-14:45:15.882 ab24 Reusing old log C:/Users/somin/OneDrive/3-1_game_engine01/게임엔진 미니/LEC09부터/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/04/28-13:40:35.272 4d40 Creating DB C:/Users/user/Documents/3-1_game_engine01/게임엔진 미니/LEC09부터/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/04/28-13:40:35.282 4d40 Reusing MANIFEST C:/Users/user/Documents/3-1_game_engine01/게임엔진 미니/LEC09부터/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
