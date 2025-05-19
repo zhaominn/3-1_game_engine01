@@ -1,21 +1,2 @@
-[0428/134035.113:ERROR:os_crypt_win.cc(93)] Failed to decrypt: 키를 지정된 상태에서 사용하기에 부적합합니다. (0x8009000B)
-[0428/134035.592:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0428/134036.023:WARNING:storage_block-inl.h(146)] Failed data load.
-[0428/134036.573:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0428/134235.361:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0428/140646.540:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
-
-[0428/140646.635:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(125,1): warning X4000: use of potentially uninitialized variable (f_mainImage)
-
-[0428/140646.676:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
-
-[0428/140647.195:ERROR:gl_utils.cc(314)] [.WebGL-000002065A16AE80] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0428/140647.238:ERROR:gl_utils.cc(314)] [.WebGL-000002065A16AE80] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0428/140647.331:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
+[0519/134523.159:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0519/134718.144:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
